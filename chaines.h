@@ -1,4 +1,4 @@
-//
+//edition
 //  chaines.h
 //  postgre primer
 //
