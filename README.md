@@ -1,4 +1,4 @@
-email-encryption-system-public
+ email-encryption-system-public
 ==============================
 
 C programs and Dovecot plugins for email encrypt/decrypt on the fly
