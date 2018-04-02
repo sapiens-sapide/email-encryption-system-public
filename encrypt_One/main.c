@@ -2,13 +2,9 @@
 //  main.c
 //  encrypt_One
 //
-//  Created by Stanislas SABATIER on 22/03/2014.
-//  Copyright (c) 2014 Stanislas SABATIER. All rights reserved.
-//
-// à partir d'une clé publique préalablement créée et passée en paramètre
-// j'encode un texte passé en paramètre avec une clé AES256 aléatoire
-// j'encode cette clé avec la clé publique RSA
-// je concatène le message chiffré et la clé chiffrée
+// Copyleft (ɔ) 2014 Mailden
+// Use of this source code is governed by a GNU AFFERO GENERAL PUBLIC
+// license (AGPL) that can be found in the LICENSE file.
 
 
 #include <stdio.h>

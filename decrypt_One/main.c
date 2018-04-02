@@ -2,14 +2,9 @@
 //  main.c
 //  decrypt_One
 //
-//  Created by Stanislas SABATIER on 22/03/2014.
-//  Copyright (c) 2014 Stanislas SABATIER. All rights reserved.
-//
-// démo : à partir d'une biclé préalablement créée et passée en paramètre
-// et d'un mail chiffré passé en paramètre
-// je sépare la clé AES256 chiffré du reste du message
-// je décode la clé AES256 avec la clé privée RSA
-// je décode le message chiffré
+// Copyleft (ɔ) 2014 Mailden
+// Use of this source code is governed by a GNU AFFERO GENERAL PUBLIC
+// license (AGPL) that can be found in the LICENSE file.
 
 #include <stdio.h>
 #include <unistd.h>

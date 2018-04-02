@@ -2,9 +2,9 @@
 //  chaines.h
 //  postgre primer
 //
-//  Created by Stanislas SABATIER on 11/05/2014.
-//  Copyright (c) 2014 Stanislas SABATIER. All rights reserved.
-//
+// Copyleft (ɔ) 2014 Mailden
+// Use of this source code is governed by a GNU AFFERO GENERAL PUBLIC
+// license (AGPL) that can be found in the LICENSE file.
 
 #ifndef postgre_primer_chaines_h
 #define postgre_primer_chaines_h

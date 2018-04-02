@@ -2,9 +2,9 @@
 //  decipher.h
 //  encrypt_One
 //
-//  Created by Stanislas SABATIER on 24/03/2014.
-//  Copyright (c) 2014 Stanislas SABATIER. All rights reserved.
-//
+// Copyleft (ɔ) 2014 Mailden
+// Use of this source code is governed by a GNU AFFERO GENERAL PUBLIC
+// license (AGPL) that can be found in the LICENSE file.
 
 #ifndef encrypt_One_decipher_h
 #define encrypt_One_decipher_h
